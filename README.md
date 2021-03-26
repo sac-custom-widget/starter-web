@@ -1,5 +1,8 @@
 # Learning Git is fun
 
+This is lame, let me type a few lines
+then commit it to git
+
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
